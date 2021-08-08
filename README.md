@@ -1,1 +1,1 @@
-# React-js-test-project-mysql-and-phpp
+# React-js-test-project-mysql-and-php
